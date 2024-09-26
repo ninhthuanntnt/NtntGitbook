@@ -2,6 +2,8 @@
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
+Commit 1
+
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
 {% hint style="info" %}
