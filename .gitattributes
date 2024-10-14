@@ -1,4 +1,4 @@
 *.docx filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
-.gitbook/*.pdf -filter -diff -merge
-.gitbook/*.docx -filter -diff -merge
+.gitbook/**/*.pdf -filter -diff -merge
+.gitbook/**/*.docx -filter -diff -merge
